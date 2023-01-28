@@ -1,0 +1,13 @@
+Question 9 Answer
+
+Problem 1#
+
+bq , rel ABC , di
+
+Problem 2#
+
+bq,  rel XYZ,  re f,  re l
+
+Problem 3#
+
+Bq, rel XYZ , key 10 , rel k, re n, re n
